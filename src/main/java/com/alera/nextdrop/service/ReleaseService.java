@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.alera.nextdrop.client.SpotifyClient;
 import com.alera.nextdrop.config.SpotifyProperties;
+import com.alera.nextdrop.dto.AlbumDTO;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
