@@ -22,3 +22,5 @@ spring.config.import=optional:file:./application-secrets.properties
 spotify.clientId=${SPOTIFY_CLIENT_ID}
 spotify.clientSecret=${SPOTIFY_CLIENT_SECRET}
 spotify.defaultCountry=IT
+
+Questo è un test di modifica effettuato da ChatGPT Codex.
